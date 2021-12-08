@@ -88,7 +88,7 @@ int main() {
 #endif
     vector <int> v = {9,9,8,7,6,10,0,1};
     countSort(v,v.size());
-    cout<<endl;
+    cout<<"\n";
 
 }
   
